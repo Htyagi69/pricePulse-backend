@@ -3,7 +3,13 @@ import math
 import joblib
 import numpy as np
 import pandas as pd
-from lightgbm import LGBMClassifier
+from typing import Any
+try:
+    from lightgbm import LGBMClassifier
+    HAS_LIGHTGBM = True
+except ImportError:
+    from sklearn.ensemble import HistGradientBoostingClassifier
+    HAS_LIGHTGBM = False
 import structlog
 
 from app.config import settings
@@ -16,7 +22,7 @@ MODEL_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path
 MODEL_PATH = os.path.join(MODEL_DIR, "gbdt_v1.joblib")
 
 
-def generate_synthetic_training_dataset(num_series: int = 50, days_per_series: int = 120) -> pd.DataFrame:
+def generate_synthetic_training_dataset(num_series: int = 15, days_per_series: int = 60) -> pd.DataFrame:
     """
     Generates realistic historical price series with promotional cycles,
     markdown trends, and seasonal dips for training the baseline model.
@@ -50,7 +56,7 @@ def generate_synthetic_training_dataset(num_series: int = 50, days_per_series: i
     return pd.DataFrame(records)
 
 
-def train_model(save_path: str = MODEL_PATH) -> LGBMClassifier:
+def train_model(save_path: str = MODEL_PATH) -> Any:
     """Train histogram-based GBDT model with specified hyperparameters."""
     logger.info("Generating training data and building features...")
     df_raw = generate_synthetic_training_dataset()
@@ -81,17 +87,27 @@ def train_model(save_path: str = MODEL_PATH) -> LGBMClassifier:
 
     logger.info(f"Training dataset assembled: {X.shape[0]} samples, {X.shape[1]} features.")
 
-    clf = LGBMClassifier(
-        n_estimators=settings.GBDT_N_ESTIMATORS,
-        max_depth=settings.GBDT_MAX_DEPTH,
-        num_leaves=32,
-        learning_rate=settings.GBDT_LEARNING_RATE,
-        reg_lambda=settings.GBDT_REG_LAMBDA,
-        subsample=0.8,
-        colsample_bytree=0.8,
-        random_state=42,
-        verbose=-1,
-    )
+    if HAS_LIGHTGBM:
+        clf = LGBMClassifier(
+            n_estimators=settings.GBDT_N_ESTIMATORS,
+            max_depth=settings.GBDT_MAX_DEPTH,
+            num_leaves=32,
+            learning_rate=settings.GBDT_LEARNING_RATE,
+            reg_lambda=settings.GBDT_REG_LAMBDA,
+            subsample=0.8,
+            colsample_bytree=0.8,
+            random_state=42,
+            verbose=-1,
+        )
+    else:
+        clf = HistGradientBoostingClassifier(
+            max_iter=settings.GBDT_N_ESTIMATORS,
+            max_depth=settings.GBDT_MAX_DEPTH,
+            max_leaf_nodes=32,
+            learning_rate=settings.GBDT_LEARNING_RATE,
+            l2_regularization=settings.GBDT_REG_LAMBDA,
+            random_state=42,
+        )
     clf.fit(X, y)
 
     os.makedirs(os.path.dirname(save_path), exist_ok=True)

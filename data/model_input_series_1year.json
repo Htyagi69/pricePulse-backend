@@ -1,0 +1,1827 @@
+[
+  {
+    "observed_at": "2025-11-23T12:00:00Z",
+    "price": 339.81,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-11-24T12:00:00Z",
+    "price": 377.48,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-11-25T12:00:00Z",
+    "price": 377.61,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-11-26T12:00:00Z",
+    "price": 373.47,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-11-27T12:00:00Z",
+    "price": 271.69,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-11-28T12:00:00Z",
+    "price": 272.41,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-11-29T12:00:00Z",
+    "price": 273.59,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-11-30T12:00:00Z",
+    "price": 272.4,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-01T12:00:00Z",
+    "price": 272.7,
+    "availability": false
+  },
+  {
+    "observed_at": "2025-12-02T12:00:00Z",
+    "price": 275.01,
+    "availability": false
+  },
+  {
+    "observed_at": "2025-12-03T12:00:00Z",
+    "price": 272.25,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-04T12:00:00Z",
+    "price": 377.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-05T12:00:00Z",
+    "price": 377.06,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-06T12:00:00Z",
+    "price": 379.48,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-07T12:00:00Z",
+    "price": 379.14,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-08T12:00:00Z",
+    "price": 378.75,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-09T12:00:00Z",
+    "price": 379.72,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-10T12:00:00Z",
+    "price": 373.42,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-11T12:00:00Z",
+    "price": 375.23,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-12T12:00:00Z",
+    "price": 380.65,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-13T12:00:00Z",
+    "price": 380.56,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-14T12:00:00Z",
+    "price": 374.97,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-15T12:00:00Z",
+    "price": 378.35,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-16T12:00:00Z",
+    "price": 380.48,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-17T12:00:00Z",
+    "price": 379.97,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-18T12:00:00Z",
+    "price": 379.45,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-19T12:00:00Z",
+    "price": 376.58,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-20T12:00:00Z",
+    "price": 379.51,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-21T12:00:00Z",
+    "price": 375.52,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-22T12:00:00Z",
+    "price": 374.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-23T12:00:00Z",
+    "price": 311.21,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-24T12:00:00Z",
+    "price": 312.03,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-25T12:00:00Z",
+    "price": 306.43,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-26T12:00:00Z",
+    "price": 308.64,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-27T12:00:00Z",
+    "price": 310.04,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-28T12:00:00Z",
+    "price": 310.59,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-29T12:00:00Z",
+    "price": 311.4,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-30T12:00:00Z",
+    "price": 385.02,
+    "availability": true
+  },
+  {
+    "observed_at": "2025-12-31T12:00:00Z",
+    "price": 376.3,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-01T12:00:00Z",
+    "price": 375.49,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-02T12:00:00Z",
+    "price": 377.79,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-03T12:00:00Z",
+    "price": 380.27,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-04T12:00:00Z",
+    "price": 372.43,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-05T12:00:00Z",
+    "price": 374.73,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-06T12:00:00Z",
+    "price": 381.61,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-07T12:00:00Z",
+    "price": 377.94,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-08T12:00:00Z",
+    "price": 381.28,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-09T12:00:00Z",
+    "price": 380.7,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-10T12:00:00Z",
+    "price": 380.73,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-11T12:00:00Z",
+    "price": 379.15,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-12T12:00:00Z",
+    "price": 383.91,
+    "availability": false
+  },
+  {
+    "observed_at": "2026-01-13T12:00:00Z",
+    "price": 376.91,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-14T12:00:00Z",
+    "price": 376.44,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-15T12:00:00Z",
+    "price": 374.59,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-16T12:00:00Z",
+    "price": 380.47,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-17T12:00:00Z",
+    "price": 380.08,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-18T12:00:00Z",
+    "price": 379.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-19T12:00:00Z",
+    "price": 376.34,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-20T12:00:00Z",
+    "price": 383.22,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-21T12:00:00Z",
+    "price": 374.81,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-22T12:00:00Z",
+    "price": 376.65,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-23T12:00:00Z",
+    "price": 376.9,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-24T12:00:00Z",
+    "price": 378.67,
+    "availability": false
+  },
+  {
+    "observed_at": "2026-01-25T12:00:00Z",
+    "price": 374.34,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-26T12:00:00Z",
+    "price": 384.91,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-27T12:00:00Z",
+    "price": 378.85,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-28T12:00:00Z",
+    "price": 377.63,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-29T12:00:00Z",
+    "price": 378.98,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-30T12:00:00Z",
+    "price": 381.0,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-01-31T12:00:00Z",
+    "price": 379.79,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-01T12:00:00Z",
+    "price": 340.34,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-02T12:00:00Z",
+    "price": 376.42,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-03T12:00:00Z",
+    "price": 377.42,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-04T12:00:00Z",
+    "price": 384.11,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-05T12:00:00Z",
+    "price": 373.26,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-06T12:00:00Z",
+    "price": 376.8,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-07T12:00:00Z",
+    "price": 382.38,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-08T12:00:00Z",
+    "price": 377.87,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-09T12:00:00Z",
+    "price": 379.56,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-10T12:00:00Z",
+    "price": 379.49,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-11T12:00:00Z",
+    "price": 378.27,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-12T12:00:00Z",
+    "price": 380.12,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-13T12:00:00Z",
+    "price": 378.87,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-14T12:00:00Z",
+    "price": 384.51,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-15T12:00:00Z",
+    "price": 378.34,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-16T12:00:00Z",
+    "price": 382.48,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-17T12:00:00Z",
+    "price": 381.62,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-18T12:00:00Z",
+    "price": 376.45,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-19T12:00:00Z",
+    "price": 378.69,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-20T12:00:00Z",
+    "price": 376.16,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-21T12:00:00Z",
+    "price": 374.99,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-22T12:00:00Z",
+    "price": 379.57,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-23T12:00:00Z",
+    "price": 379.37,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-24T12:00:00Z",
+    "price": 377.86,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-25T12:00:00Z",
+    "price": 379.48,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-26T12:00:00Z",
+    "price": 376.25,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-27T12:00:00Z",
+    "price": 375.84,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-02-28T12:00:00Z",
+    "price": 379.15,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-01T12:00:00Z",
+    "price": 372.37,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-02T12:00:00Z",
+    "price": 380.1,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-03T12:00:00Z",
+    "price": 383.75,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-04T12:00:00Z",
+    "price": 377.97,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-05T12:00:00Z",
+    "price": 379.06,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-06T12:00:00Z",
+    "price": 376.52,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-07T12:00:00Z",
+    "price": 377.15,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-08T12:00:00Z",
+    "price": 340.75,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-09T12:00:00Z",
+    "price": 377.5,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-10T12:00:00Z",
+    "price": 383.27,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-11T12:00:00Z",
+    "price": 387.57,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-12T12:00:00Z",
+    "price": 375.37,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-13T12:00:00Z",
+    "price": 379.43,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-14T12:00:00Z",
+    "price": 380.1,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-15T12:00:00Z",
+    "price": 373.15,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-16T12:00:00Z",
+    "price": 376.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-17T12:00:00Z",
+    "price": 372.08,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-18T12:00:00Z",
+    "price": 321.21,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-19T12:00:00Z",
+    "price": 322.74,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-20T12:00:00Z",
+    "price": 322.1,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-21T12:00:00Z",
+    "price": 321.42,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-22T12:00:00Z",
+    "price": 322.59,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-23T12:00:00Z",
+    "price": 318.34,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-24T12:00:00Z",
+    "price": 319.3,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-25T12:00:00Z",
+    "price": 371.01,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-26T12:00:00Z",
+    "price": 376.99,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-27T12:00:00Z",
+    "price": 378.22,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-28T12:00:00Z",
+    "price": 381.03,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-29T12:00:00Z",
+    "price": 375.96,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-30T12:00:00Z",
+    "price": 382.62,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-03-31T12:00:00Z",
+    "price": 388.07,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-01T12:00:00Z",
+    "price": 377.9,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-02T12:00:00Z",
+    "price": 377.33,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-03T12:00:00Z",
+    "price": 385.0,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-04T12:00:00Z",
+    "price": 376.79,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-05T12:00:00Z",
+    "price": 379.3,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-06T12:00:00Z",
+    "price": 371.18,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-07T12:00:00Z",
+    "price": 372.24,
+    "availability": false
+  },
+  {
+    "observed_at": "2026-04-08T12:00:00Z",
+    "price": 379.04,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-09T12:00:00Z",
+    "price": 375.67,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-10T12:00:00Z",
+    "price": 379.0,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-11T12:00:00Z",
+    "price": 379.12,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-12T12:00:00Z",
+    "price": 339.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-13T12:00:00Z",
+    "price": 382.08,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-14T12:00:00Z",
+    "price": 376.43,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-15T12:00:00Z",
+    "price": 376.23,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-16T12:00:00Z",
+    "price": 378.76,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-17T12:00:00Z",
+    "price": 376.9,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-18T12:00:00Z",
+    "price": 383.19,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-19T12:00:00Z",
+    "price": 378.12,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-20T12:00:00Z",
+    "price": 377.79,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-21T12:00:00Z",
+    "price": 374.18,
+    "availability": false
+  },
+  {
+    "observed_at": "2026-04-22T12:00:00Z",
+    "price": 383.58,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-23T12:00:00Z",
+    "price": 380.85,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-24T12:00:00Z",
+    "price": 380.03,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-25T12:00:00Z",
+    "price": 374.55,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-26T12:00:00Z",
+    "price": 375.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-27T12:00:00Z",
+    "price": 384.05,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-28T12:00:00Z",
+    "price": 379.67,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-29T12:00:00Z",
+    "price": 376.77,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-04-30T12:00:00Z",
+    "price": 379.18,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-01T12:00:00Z",
+    "price": 371.83,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-02T12:00:00Z",
+    "price": 381.93,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-03T12:00:00Z",
+    "price": 383.76,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-04T12:00:00Z",
+    "price": 380.33,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-05T12:00:00Z",
+    "price": 372.21,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-06T12:00:00Z",
+    "price": 374.55,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-07T12:00:00Z",
+    "price": 384.08,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-08T12:00:00Z",
+    "price": 378.89,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-09T12:00:00Z",
+    "price": 375.79,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-10T12:00:00Z",
+    "price": 382.15,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-11T12:00:00Z",
+    "price": 373.7,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-12T12:00:00Z",
+    "price": 375.5,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-13T12:00:00Z",
+    "price": 378.64,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-14T12:00:00Z",
+    "price": 379.96,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-15T12:00:00Z",
+    "price": 378.29,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-16T12:00:00Z",
+    "price": 380.39,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-17T12:00:00Z",
+    "price": 339.75,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-18T12:00:00Z",
+    "price": 381.72,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-19T12:00:00Z",
+    "price": 377.56,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-20T12:00:00Z",
+    "price": 379.86,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-21T12:00:00Z",
+    "price": 377.65,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-22T12:00:00Z",
+    "price": 380.51,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-23T12:00:00Z",
+    "price": 380.03,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-24T12:00:00Z",
+    "price": 375.16,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-25T12:00:00Z",
+    "price": 375.76,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-26T12:00:00Z",
+    "price": 377.86,
+    "availability": false
+  },
+  {
+    "observed_at": "2026-05-27T12:00:00Z",
+    "price": 382.75,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-28T12:00:00Z",
+    "price": 373.32,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-29T12:00:00Z",
+    "price": 376.85,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-30T12:00:00Z",
+    "price": 377.24,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-05-31T12:00:00Z",
+    "price": 378.87,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-01T12:00:00Z",
+    "price": 375.71,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-02T12:00:00Z",
+    "price": 383.4,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-03T12:00:00Z",
+    "price": 376.87,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-04T12:00:00Z",
+    "price": 380.89,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-05T12:00:00Z",
+    "price": 380.2,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-06T12:00:00Z",
+    "price": 380.27,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-07T12:00:00Z",
+    "price": 381.43,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-08T12:00:00Z",
+    "price": 375.6,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-09T12:00:00Z",
+    "price": 380.49,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-10T12:00:00Z",
+    "price": 378.01,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-11T12:00:00Z",
+    "price": 376.09,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-12T12:00:00Z",
+    "price": 375.21,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-13T12:00:00Z",
+    "price": 371.59,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-14T12:00:00Z",
+    "price": 379.09,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-15T12:00:00Z",
+    "price": 381.14,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-16T12:00:00Z",
+    "price": 379.85,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-17T12:00:00Z",
+    "price": 380.1,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-18T12:00:00Z",
+    "price": 373.42,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-19T12:00:00Z",
+    "price": 378.21,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-20T12:00:00Z",
+    "price": 378.64,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-21T12:00:00Z",
+    "price": 340.82,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-22T12:00:00Z",
+    "price": 377.05,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-23T12:00:00Z",
+    "price": 379.6,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-24T12:00:00Z",
+    "price": 382.39,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-25T12:00:00Z",
+    "price": 377.82,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-26T12:00:00Z",
+    "price": 377.74,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-27T12:00:00Z",
+    "price": 380.49,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-28T12:00:00Z",
+    "price": 379.98,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-29T12:00:00Z",
+    "price": 377.04,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-06-30T12:00:00Z",
+    "price": 377.89,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-01T12:00:00Z",
+    "price": 372.76,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-02T12:00:00Z",
+    "price": 379.47,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-03T12:00:00Z",
+    "price": 371.89,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-04T12:00:00Z",
+    "price": 373.82,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-05T12:00:00Z",
+    "price": 377.31,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-06T12:00:00Z",
+    "price": 374.48,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-07T12:00:00Z",
+    "price": 381.98,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-08T12:00:00Z",
+    "price": 375.0,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-09T12:00:00Z",
+    "price": 378.07,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-10T12:00:00Z",
+    "price": 382.31,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-11T12:00:00Z",
+    "price": 376.31,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-12T12:00:00Z",
+    "price": 376.27,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-13T12:00:00Z",
+    "price": 283.23,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-14T12:00:00Z",
+    "price": 285.47,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-15T12:00:00Z",
+    "price": 283.91,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-16T12:00:00Z",
+    "price": 286.97,
+    "availability": false
+  },
+  {
+    "observed_at": "2026-07-17T12:00:00Z",
+    "price": 285.63,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-18T12:00:00Z",
+    "price": 284.41,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-19T12:00:00Z",
+    "price": 378.85,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-20T12:00:00Z",
+    "price": 381.04,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-21T12:00:00Z",
+    "price": 376.0,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-22T12:00:00Z",
+    "price": 372.38,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-23T12:00:00Z",
+    "price": 380.81,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-24T12:00:00Z",
+    "price": 378.1,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-25T12:00:00Z",
+    "price": 381.02,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-26T12:00:00Z",
+    "price": 339.38,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-27T12:00:00Z",
+    "price": 376.3,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-28T12:00:00Z",
+    "price": 376.71,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-29T12:00:00Z",
+    "price": 380.69,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-30T12:00:00Z",
+    "price": 378.5,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-07-31T12:00:00Z",
+    "price": 379.73,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-01T12:00:00Z",
+    "price": 380.92,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-02T12:00:00Z",
+    "price": 380.98,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-03T12:00:00Z",
+    "price": 378.51,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-04T12:00:00Z",
+    "price": 376.98,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-05T12:00:00Z",
+    "price": 376.72,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-06T12:00:00Z",
+    "price": 376.49,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-07T12:00:00Z",
+    "price": 379.44,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-08T12:00:00Z",
+    "price": 374.34,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-09T12:00:00Z",
+    "price": 381.48,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-10T12:00:00Z",
+    "price": 378.52,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-11T12:00:00Z",
+    "price": 378.29,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-12T12:00:00Z",
+    "price": 375.42,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-13T12:00:00Z",
+    "price": 381.55,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-14T12:00:00Z",
+    "price": 378.2,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-15T12:00:00Z",
+    "price": 370.61,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-16T12:00:00Z",
+    "price": 378.9,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-17T12:00:00Z",
+    "price": 379.28,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-18T12:00:00Z",
+    "price": 378.94,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-19T12:00:00Z",
+    "price": 382.59,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-20T12:00:00Z",
+    "price": 374.08,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-21T12:00:00Z",
+    "price": 374.87,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-22T12:00:00Z",
+    "price": 379.41,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-23T12:00:00Z",
+    "price": 377.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-24T12:00:00Z",
+    "price": 374.64,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-25T12:00:00Z",
+    "price": 371.16,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-26T12:00:00Z",
+    "price": 382.11,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-27T12:00:00Z",
+    "price": 380.13,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-28T12:00:00Z",
+    "price": 378.83,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-29T12:00:00Z",
+    "price": 372.17,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-30T12:00:00Z",
+    "price": 344.93,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-08-31T12:00:00Z",
+    "price": 377.46,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-01T12:00:00Z",
+    "price": 375.53,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-02T12:00:00Z",
+    "price": 380.61,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-03T12:00:00Z",
+    "price": 378.63,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-04T12:00:00Z",
+    "price": 323.98,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-05T12:00:00Z",
+    "price": 327.01,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-06T12:00:00Z",
+    "price": 321.49,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-07T12:00:00Z",
+    "price": 327.1,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-08T12:00:00Z",
+    "price": 324.64,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-09T12:00:00Z",
+    "price": 322.31,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-10T12:00:00Z",
+    "price": 378.33,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-11T12:00:00Z",
+    "price": 381.4,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-12T12:00:00Z",
+    "price": 373.43,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-13T12:00:00Z",
+    "price": 378.13,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-14T12:00:00Z",
+    "price": 381.38,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-15T12:00:00Z",
+    "price": 383.8,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-16T12:00:00Z",
+    "price": 379.06,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-17T12:00:00Z",
+    "price": 378.82,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-18T12:00:00Z",
+    "price": 375.37,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-19T12:00:00Z",
+    "price": 377.93,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-20T12:00:00Z",
+    "price": 378.43,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-21T12:00:00Z",
+    "price": 377.35,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-22T12:00:00Z",
+    "price": 374.56,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-23T12:00:00Z",
+    "price": 375.86,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-24T12:00:00Z",
+    "price": 375.21,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-25T12:00:00Z",
+    "price": 378.82,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-26T12:00:00Z",
+    "price": 382.57,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-27T12:00:00Z",
+    "price": 374.33,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-28T12:00:00Z",
+    "price": 378.62,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-29T12:00:00Z",
+    "price": 375.71,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-09-30T12:00:00Z",
+    "price": 382.12,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-01T12:00:00Z",
+    "price": 379.44,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-02T12:00:00Z",
+    "price": 379.36,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-03T12:00:00Z",
+    "price": 378.15,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-04T12:00:00Z",
+    "price": 338.46,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-05T12:00:00Z",
+    "price": 376.68,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-06T12:00:00Z",
+    "price": 369.82,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-07T12:00:00Z",
+    "price": 379.6,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-08T12:00:00Z",
+    "price": 379.17,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-09T12:00:00Z",
+    "price": 381.72,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-10T12:00:00Z",
+    "price": 378.33,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-11T12:00:00Z",
+    "price": 373.58,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-12T12:00:00Z",
+    "price": 376.46,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-13T12:00:00Z",
+    "price": 371.87,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-14T12:00:00Z",
+    "price": 378.35,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-15T12:00:00Z",
+    "price": 376.2,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-16T12:00:00Z",
+    "price": 378.71,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-17T12:00:00Z",
+    "price": 372.44,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-18T12:00:00Z",
+    "price": 378.78,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-19T12:00:00Z",
+    "price": 377.31,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-20T12:00:00Z",
+    "price": 377.27,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-21T12:00:00Z",
+    "price": 374.79,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-22T12:00:00Z",
+    "price": 387.11,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-23T12:00:00Z",
+    "price": 373.8,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-24T12:00:00Z",
+    "price": 374.69,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-25T12:00:00Z",
+    "price": 374.89,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-26T12:00:00Z",
+    "price": 379.0,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-27T12:00:00Z",
+    "price": 376.56,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-28T12:00:00Z",
+    "price": 381.96,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-29T12:00:00Z",
+    "price": 379.95,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-30T12:00:00Z",
+    "price": 377.33,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-10-31T12:00:00Z",
+    "price": 379.03,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-01T12:00:00Z",
+    "price": 379.56,
+    "availability": false
+  },
+  {
+    "observed_at": "2026-11-02T12:00:00Z",
+    "price": 374.14,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-03T12:00:00Z",
+    "price": 379.24,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-04T12:00:00Z",
+    "price": 376.74,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-05T12:00:00Z",
+    "price": 373.46,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-06T12:00:00Z",
+    "price": 382.73,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-07T12:00:00Z",
+    "price": 375.55,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-08T12:00:00Z",
+    "price": 342.82,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-09T12:00:00Z",
+    "price": 376.71,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-10T12:00:00Z",
+    "price": 382.75,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-11T12:00:00Z",
+    "price": 374.92,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-12T12:00:00Z",
+    "price": 376.22,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-13T12:00:00Z",
+    "price": 382.7,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-14T12:00:00Z",
+    "price": 381.28,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-15T12:00:00Z",
+    "price": 381.25,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-16T12:00:00Z",
+    "price": 374.47,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-17T12:00:00Z",
+    "price": 377.99,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-18T12:00:00Z",
+    "price": 375.57,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-19T12:00:00Z",
+    "price": 379.1,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-20T12:00:00Z",
+    "price": 383.59,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-21T12:00:00Z",
+    "price": 376.64,
+    "availability": true
+  },
+  {
+    "observed_at": "2026-11-22T12:00:00Z",
+    "price": 382.52,
+    "availability": true
+  }
+]

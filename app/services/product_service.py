@@ -163,6 +163,16 @@ class ProductService:
     async def get_product_by_id(db: AsyncSession, product_id: str) -> Product:
         product = await db.get(Product, product_id)
         if not product:
+            # Flexible resolution: look up by canonical_key, slug, or title tokens
+            cleaned = product_id.replace("-", "%")
+            stmt = select(Product).where(
+                (Product.canonical_key == product_id) |
+                (Product.canonical_key.ilike(f"%{product_id}%")) |
+                (Product.title.ilike(f"%{cleaned}%"))
+            ).limit(1)
+            res = await db.execute(stmt)
+            product = res.scalar_one_or_none()
+        if not product:
             raise HTTPException(
                 status_code=status.HTTP_404_NOT_FOUND,
                 detail="Product not found",
